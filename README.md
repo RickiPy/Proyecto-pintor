@@ -27,7 +27,7 @@ Un sitio web moderno y profesional para servicios de pintura, desarrollado con R
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/pintor-papa.git
+git clone https://github.com/RickyPy/pintor-papa.git
 ```
 
 2. Navega al directorio del proyecto:
