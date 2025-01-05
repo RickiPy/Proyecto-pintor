@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  body {
+    @apply bg-secondary-50 text-secondary-900 font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-xl font-medium transition-all duration-200 shadow-soft hover:shadow-elegant transform hover:-translate-y-0.5;
+  }
+  
+  .btn-primary {
+    @apply bg-gradient-to-r from-primary-600 to-primary-500 text-white hover:from-primary-700 hover:to-primary-600;
+  }
+  
+  .btn-secondary {
+    @apply bg-gradient-to-r from-secondary-600 to-secondary-500 text-white hover:from-secondary-700 hover:to-secondary-600;
+  }
+
+  .btn-accent {
+    @apply bg-gradient-to-r from-accent-500 to-accent-400 text-white hover:from-accent-600 hover:to-accent-500;
+  }
+  
+  .section-padding {
+    @apply py-20 md:py-32;
+  }
+
+  .card {
+    @apply bg-white rounded-2xl shadow-soft hover:shadow-elegant transition-all duration-300;
+  }
+
+  .heading-1 {
+    @apply text-4xl md:text-6xl font-bold font-display;
+  }
+
+  .heading-2 {
+    @apply text-3xl md:text-5xl font-bold font-display;
+  }
+
+  .heading-3 {
+    @apply text-2xl md:text-4xl font-bold font-display;
+  }
+
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-accent-500;
+  }
+
+  .nav-link {
+    @apply relative py-2 text-secondary-600 hover:text-primary-600 transition-colors duration-200 after:absolute after:left-0 after:bottom-0 after:h-0.5 after:w-0 after:bg-primary-600 after:transition-all hover:after:w-full;
+  }
+}
