@@ -101,7 +101,7 @@ const PortfolioBanner = () => {
                 LinkedIn
               </a>
               <a 
-                href="https://ricki.dev" 
+                href="https://ricki-cv.vercel.app/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-secondary-300 hover:text-primary-300 transition-colors flex items-center gap-1 text-sm"
