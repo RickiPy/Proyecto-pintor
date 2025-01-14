@@ -26,7 +26,7 @@ const PortfolioBanner = () => {
             </div>
             <div className="flex items-center gap-2 text-sm mt-1">
               <a 
-                href="https://github.com/Ricki" 
+                href="https://github.com/RickiPy" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-secondary-300 hover:text-primary-300 transition-colors flex items-center gap-1"
@@ -36,7 +36,7 @@ const PortfolioBanner = () => {
                 </svg>
               </a>
               <a 
-                href="https://linkedin.com/in/Ricki" 
+                href="https://linkedin.com/in/ricardo-vargas-barral-0a3891289" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-secondary-300 hover:text-primary-300 transition-colors flex items-center gap-1"
@@ -79,7 +79,7 @@ const PortfolioBanner = () => {
           <div className="flex items-center gap-4">
             <div className="flex gap-3">
               <a 
-                href="https://github.com/Ricki" 
+                href="https://github.com/RickiPy" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-secondary-300 hover:text-primary-300 transition-colors flex items-center gap-1 text-sm"
@@ -90,7 +90,7 @@ const PortfolioBanner = () => {
                 GitHub
               </a>
               <a 
-                href="https://linkedin.com/in/Ricki" 
+                href="https://linkedin.com/in/ricardo-vargas-barral-0a3891289" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-secondary-300 hover:text-primary-300 transition-colors flex items-center gap-1 text-sm"
