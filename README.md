@@ -27,12 +27,12 @@ Un sitio web moderno y profesional para servicios de pintura, desarrollado con R
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/pintor-papa.git
+git clone https://github.com/RickyPy/pintor-papa.git
 ```
 
 2. Navega al directorio del proyecto:
 ```bash
-cd pintor-papa
+cd Proyecto-pintor
 ```
 
 3. Instala las dependencias:
@@ -86,24 +86,13 @@ El proyecto utiliza variables en Tailwind CSS para colores y estilos. Puedes mod
 - `npm run build` - Construye el proyecto para producción
 - `npm run preview` - Previsualiza la build de producción
 
-## 🤝 Contribuir
-
-1. Haz un Fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ## 👤 Autor
 
 **Ricki**
 - Website: [ricki.dev](https://ricki.dev)
-- GitHub: [@Ricki](https://github.com/Ricki)
-- LinkedIn: [@Ricki](https://linkedin.com/in/Ricki)
+- GitHub: [@Ricki](https://github.com/RickiPy)
+- LinkedIn: [@Ricki](https://www.linkedin.com/in/ricardo-vargas-barral-0a3891289)
 
 ## 🙏 Agradecimientos
 
@@ -112,4 +101,4 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 - Inspiración de los mejores sitios de servicios profesionales
 
 ---
-⭐️ From [Ricki](https://github.com/Ricki)
+⭐️ From [Ricki](https://github.com/RickiPy)
