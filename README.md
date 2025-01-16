@@ -90,7 +90,7 @@ El proyecto utiliza variables en Tailwind CSS para colores y estilos. Puedes mod
 ## 👤 Autor
 
 **Ricki**
-- Website: [ricki.dev](https://ricki-cv.vercel.app/)
+- Website: [MiWeb](https://ricki-cv.vercel.app/)
 - GitHub: [@Ricki](https://github.com/RickiPy)
 - LinkedIn: [@Ricki](https://www.linkedin.com/in/ricardo-vargas-barral-0a3891289)
 
